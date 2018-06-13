@@ -102,7 +102,7 @@ def run():
 
     error = compute_error_for_given_points(m, b, points)
 
-    print("After 1000 iterations m=", m, " and b=", b, " with an error=", error)
+    print("After 1000 iterations m=", m, " and b=", b, " with an error=")
 
 if __name__ == "__main__":
     print("opening from terminal")
